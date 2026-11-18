@@ -1,0 +1,32 @@
+
+/* About Section */
+.about-section {
+    padding: 80px 0;
+    background-color: white;
+}
+
+.about-img {
+    border-radius: 10px;
+    width: 100%;
+    max-width: 350px;
+}
+
+/* Mission and Vision */
+.mission-vision {
+    padding: 80px 0;
+    /* background-color: #e9ecef; */
+}
+
+.mission-vision h3 {
+    font-weight: 600;
+}
+
+/* Client Feedback */
+.client-feedback img,
+.existing-client img
+{
+    width: 150px;
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
